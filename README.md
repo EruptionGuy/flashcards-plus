@@ -2,7 +2,7 @@
 
 **Flashcards+** is a simple, user-friendly desktop application built with Python and Tkinter for creating and studying digital flashcards. Perfect for students, educators, or anyone looking to learn through interactive question-answer pairs. Create your own flashcard sets, study efficiently, and manage your learning with ease. Feel free to fork this project and enhance it with new features!
 
-Check out an example flashcard set: [Spanish Flashcards.json](https://github.com/EruptionGuy/flashcards-plus/blob/main/Spanish%20Flashcards.json).
+Check out an example flashcard set: [Spanish Flashcards.json](./Spanish%20Flashcards.json).
 
 ## Features
 
@@ -13,9 +13,11 @@ Check out an example flashcard set: [Spanish Flashcards.json](https://github.com
 - **File Operations**: Save flashcard sets as JSON files, load existing sets, or start fresh with a new set.
 - **Dark Theme UI**: Modern dark theme with clear button labels, larger fonts, and macOS-compatible styling for a polished look.
 
+![Interface](./Interface.png)
+
 ## Getting Started
 
-### Prerequisites
+### Requirements
 - Python 3.6 or higher
 - Tkinter (included with standard Python installations)
 
